@@ -169,3 +169,8 @@ window.addEventListener("DOMContentLoaded",() => {
         document.ontouchmove = moove;
       }
   })
+
+  AOS.init ({
+    duration: 1200
+  })
+    

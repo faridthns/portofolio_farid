@@ -14,6 +14,9 @@
     <!-- My Css -->
     <link rel="stylesheet" href="assets/css/style.css" />
 
+    <!-- AOS CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+
     <title>My Portfolio | Faridthns</title>
   </head>
 
@@ -48,9 +51,11 @@
 
     <!-- jumbotron -->
     <section class="jumbotron text-center">
-      <img src="assets/img/foto farid.jpg" alt="Faridthns" width="200px" class="rounded-circle img-thumbnail" />
-      <h1 class="display-4">Faridthns</h1>
-      <p class="lead">Student</p>
+      <div data-aos="flip-left">
+        <img src="assets/img/foto farid.jpg" alt="Faridthns" width="200px" class="rounded-circle img-thumbnail" />
+        <h1 class="display-4">Faridthns</h1>
+        <p class="lead">Student</p>
+      </div>
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
         <path
           fill="#8fc0a9"
@@ -70,10 +75,10 @@
           </div>
         </div>
         <div class="row justify-content-center fs-5 text-center">
-          <div class="col-md-4">
+          <div class="col-md-4" data-aos="fade-right">
             <p>Hi, My name is Farid Ramadhan. I am 20 years old. I live in Indonesia. I am a student, currently studying in the field of information systems. I am very interested in web programming. For now the languages that I have mastered are HTML and CSS, I am currently studying other programming languages such as javascript and php.</p>
           </div>
-          <div class="col-md-4">
+          <div class="col-md-4" data-aos="fade-left">
             <p>This is my web portfolio. I am just an imperfect human, the website that I created also has many shortcomings due to my limited abilities. therefore I will continue to study hard, learn new things and prepare myself to compete in today's digital era. Best regards, Farid.</p>
           </div>
         </div>
@@ -98,7 +103,7 @@
         </div>
         <div class="row justify-content-center">
           <div class="col-md-4 mb-3">
-            <div class="card shadow-lg">
+            <div class="card shadow-lg" data-aos="fade-up">
               <img src="assets/img/projects/beritaz7th.png" class="card-img-top bg-primary pt-4 pb-4" alt="Projects1"/>
               <div class="card-body" style="background-color: #8fc0a9">
                 <p class="card-text">This is a website that provides the latest news that I created with my friends as an assignment for a web programming I course.</p>
@@ -107,7 +112,7 @@
             </div>
           </div>
           <div class="col-md-4 mb-3">
-            <div class="card shadow-lg">
+            <div class="card shadow-lg" data-aos="fade-up">
               <img src="assets/img/projects/pakuhitam.png" class="card-img-top" alt="Projects2">
               <div class="card-body" style="background-color: #8fc0a9">
                 <p class="card-text">This is a construction service rental website that I created with my friends as an assignment for a web programming II course.</p>
@@ -116,7 +121,7 @@
             </div>
           </div>
           <div class="col-md-4 mb-3">
-            <div class="card shadow-lg">
+            <div class="card shadow-lg" data-aos="fade-up">
               <img src="assets/img/projects/tv.jpg" class="card-img-top" alt="Projects3" />
               <div class="card-body" style="background-color: #8fc0a9">
                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -124,7 +129,7 @@
             </div>
           </div>
           <div class="col-md-4 mb-3">
-            <div class="card shadow-lg">
+            <div class="card shadow-lg" data-aos="fade-up">
               <img src="assets/img/projects/radio.jpg" class="card-img-top" alt="Projects4" />
               <div class="card-body" style="background-color: #8fc0a9">
                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -132,7 +137,7 @@
             </div>
           </div>
           <div class="col-md-4 mb-3">
-            <div class="card shadow-lg">
+            <div class="card shadow-lg" data-aos="fade-up">
               <img src="assets/img/projects/vespa.jpg" class="card-img-top" alt="Projects5" />
               <div class="card-body" style="background-color: #8fc0a9">
                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -153,7 +158,7 @@
 
     <!-- Contact -->
     <section id="contact">
-      <div class="container">
+      <div class="container" data-aos="fade-up">
         <div class="row text-center mb-3">
           <div class="col">
             <h2>Contact Me</h2>
@@ -211,8 +216,14 @@
     </footer>
     <!-- Akhir Footer -->
 
-    <script src="assets/js/index.js"></script>
 
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+    <script>
+      
+    </script>
+
+    <script src="assets/js/index.js"></script>
+  
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
   </body>
 </html>
