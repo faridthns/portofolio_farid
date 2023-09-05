@@ -1,5 +1,5 @@
 # portofolio_farid
-Selamat datang di portofolio saya! Di sini, Anda dapat menjelajahi berbagai proyek dan pekerjaan yang saya telah kerjakan.
+Selamat datang di portofolio saya! Di sini, Kalian dapat melihat berbagai projek dan pekerjaan yang saya telah kerjakan.
 
 ## Daftar Isi
 - Tentang Saya
