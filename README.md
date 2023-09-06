@@ -2,9 +2,9 @@
 Selamat datang di portofolio saya! Di sini, Kalian dapat melihat berbagai projek dan pekerjaan yang saya telah kerjakan.
 
 ## Daftar Isi
-- Tentang Saya
-- Projek
-- Kontak
+- [Tentang Saya](#tentang-saya)
+- [Projek](#projek)
+- [Kontak](#kontak)
 
 ## Tentang Saya
 Saya adalah seorang mahasiswa jurusan sistem informasi. Saya sangat tertarik dengan pemrograman web. Untuk saat ini bahasa yang saya kuasai adalah HTML, CSS, PHP, dan Javascript. Saya selalu bersemangat untuk mempelajari teknologi baru dan berkolaborasi dengan orang-orang untuk menciptakan solusi kreatif.
@@ -25,7 +25,7 @@ Anda dapat mencari saya di beberapa platform:
 
 - Email: faridramadhan03@gmail.com
 - LinkedIn: Farid Ramadhan
-- Github: Faridthns
+- Github: faridthns
 - Instagram: faariiddd_
 
 Terima kasih atas kunjungan Anda ke portofolio saya!
