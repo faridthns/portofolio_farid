@@ -25,7 +25,7 @@ Anda dapat mencari saya di beberapa platform:
 
 - Email: faridramadhan03@gmail.com
 - LinkedIn: Farid Ramadhan
-- Github: Faridthns
+- Github: faridthns
 - Instagram: faariiddd_
 
 Terima kasih atas kunjungan Anda ke portofolio saya!
