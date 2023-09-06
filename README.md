@@ -3,7 +3,7 @@ Selamat datang di portofolio saya! Di sini, Kalian dapat melihat berbagai projek
 
 ## Daftar Isi
 - [Tentang Saya](#tentang-saya)
-- [Proyek Teratas](#proyek-teratas)
+- [Projek](#projek)
 - [Kontak](#kontak)
 
 ## Tentang Saya
