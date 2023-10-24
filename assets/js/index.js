@@ -173,6 +173,7 @@ window.addEventListener("DOMContentLoaded",() => {
   })
 
   AOS.init ({
-    duration: 1200
+    duration: 1200,
+    mirror: true
   })
     
