@@ -1,3 +1,5 @@
+
+// cursor
 let script = document.currentScript
 
 window.addEventListener("DOMContentLoaded",() => {
