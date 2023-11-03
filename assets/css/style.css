@@ -1,3 +1,9 @@
+@media (max-width: 575.98px) {
+  footer {
+    padding-bottom: 80px;
+   }
+}
+
 * {
   cursor: none;
   font-family: Poppins, serif;
@@ -22,6 +28,29 @@ body {
 
 #contact {
   background-color: #EEE0C9;
+}
+
+footer {
+  background-color: #ADC4CE;
+}
+
+.navbar-bottom {
+  height: 60px;
+  background-color: #96B6C5;
+  margin: 5px;
+}
+
+.navbottom-items {
+  /* background-color: #96B6C5; */
+  /* border: none; */
+  width: 100vw;
+}
+
+.item {
+  align-items: center;
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
 }
 
 section {
